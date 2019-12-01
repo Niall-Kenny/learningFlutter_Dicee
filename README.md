@@ -4,7 +4,7 @@ Dicee is a Las Vegas dice app. You can make the die roll at the press of a butto
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
 
-## What you will learn
+## What I learnt
 
 - How to use Flutter stateless widgets to design the user interface.
 - How to use Flutter stateful widgets to update the user interface.
